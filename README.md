@@ -27,3 +27,6 @@ Atualmente estou **cursando** o Técnico em TI e aprendendo as bases da tecnolog
 ![Hardware](https://img.shields.io/badge/Hardware-Config-grey?style=for-the-badge&logo=cpu)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+
+
